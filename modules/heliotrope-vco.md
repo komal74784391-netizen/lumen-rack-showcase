@@ -7,6 +7,7 @@ palette: Ultramarine / Silver
 design_lead: Ezra Milne
 summary: Through-zero voltage-controlled oscillator with a temperature-compensated exponential converter.
 build_guide_url: https://lumenrack.example/builds/heliotrope-vco
+design_package_url: https://github.com/komal74784391-netizen/heliotrope-vco
 ---
 
 ## Overview

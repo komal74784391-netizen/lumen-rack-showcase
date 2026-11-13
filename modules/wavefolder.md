@@ -7,6 +7,7 @@ palette: Graphite / Amber
 design_lead: Nia Okafor
 summary: Voltage-controlled wavefolder with stepped symmetry and an AC-coupled input stage.
 build_guide_url: https://lumenrack.example/builds/wavefolder
+design_package_url: https://github.com/komal74784391-netizen/wavefolder
 ---
 
 ## Overview
