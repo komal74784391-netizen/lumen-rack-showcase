@@ -7,6 +7,7 @@ palette: Oxblood / Brass
 design_lead: Priya Sarn
 summary: Eight-lane Euclidean step sequencer with per-lane clock division and a transpose bus.
 build_guide_url: https://lumenrack.example/builds/orrery-sequencer
+design_package_url: https://github.com/komal74784391-netizen/orrery-sequencer
 ---
 
 ## Overview
